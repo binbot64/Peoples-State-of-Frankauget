@@ -16,7 +16,7 @@ function saveAll() {
 // ADMIN SYSTEM
 // =============================
 
-const ADMIN_HASH = "RnJhbmtBdW5lblN1cHJlbWU="; // base64 for FrankAunenSupreme
+const ADMIN_HASH = "jmwrtjh05090311"; // base64 for FrankAunenSupreme
 
 function login() {
     const input = btoa(document.getElementById("adminPass").value);
